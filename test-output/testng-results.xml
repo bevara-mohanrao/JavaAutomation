@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-30T12:30:01 EST" name="Default suite" finished-at="2023-12-30T12:30:02 EST" duration-ms="355">
+    <groups>
+    </groups>
+    <test started-at="2023-12-30T12:30:01 EST" name="Default test" finished-at="2023-12-30T12:30:02 EST" duration-ms="355">
+      <class name="javaprogramming.SwapStringvalues">
+        <test-method signature="arthematic()[pri:0, instance:javaprogramming.SwapStringvalues@304a3655]" started-at="2023-12-30T12:30:02 EST" name="arthematic" finished-at="2023-12-30T12:30:02 EST" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arthematic -->
+        <test-method signature="swapstring()[pri:0, instance:javaprogramming.SwapStringvalues@304a3655]" started-at="2023-12-30T12:30:02 EST" name="swapstring" finished-at="2023-12-30T12:30:02 EST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- swapstring -->
+      </class> <!-- javaprogramming.SwapStringvalues -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+  
+  <classes>
+
+  <class name="javaprogramming.Collectionprogram"/>
+<class name="javaprogramming.CountCharInstring"/>
+<class name="javaprogramming.CountduplicateCharInString"/>
+<class name="javaprogramming.CountofDigits"/>
+<class name="javaprogramming.countword"/>
+<!-- <class name="javaprogramming.digitalBook"/> -->
+<class name="javaprogramming.DuplicateString"/>
+<class name="javaprogramming.EvenAndOdd"/>
+<class name="javaprogramming.Fibannocinumbers"/>
+<class name="javaprogramming.FileReaderprog"/>
+<class name="javaprogramming.FindDupString"/>
+<class name="javaprogramming.JavaDupStringwithCasesens"/>
+<!-- <class name="javaprogramming.Librarybooks"/> -->
+<class name="javaprogramming.Libraryprogram"/>
+<!-- <class name="javaprogramming.LibraryUser"/> -->
+<class name="javaprogramming.LinearSearch"/>
+<class name="javaprogramming.MaxDigitnumber"/>
+<class name="javaprogramming.MinandMaxvalue"/>
+<class name="javaprogramming.missingnumber"/>
+<class name="javaprogramming.NewFilewrite"/>
+<class name="javaprogramming.Palindromenum"/>
+<class name="javaprogramming.Primenumber"/>
+<class name="javaprogramming.Primenumberduplicate"/>
+<class name="javaprogramming.ReversesInteger"/>
+<class name="javaprogramming.Reversestringprint"/>
+<class name="javaprogramming.Stringmanupliationpractice"/>
+<class name="javaprogramming.SwapandRevernumbers"/>
+<class name="javaprogramming.SwapStringvalues"/>
+<class name="javaprogramming.Uniquenumbers"/>
+
+  </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
